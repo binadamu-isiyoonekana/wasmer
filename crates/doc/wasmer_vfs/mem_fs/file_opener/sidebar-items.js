@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["FileOpener","The type that is responsible to open a file."]]});

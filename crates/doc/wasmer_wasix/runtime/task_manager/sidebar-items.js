@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SpawnMemoryType"],"mod":["tokio"],"static":["CALLSITE","META"],"struct":["InlineWaker","TaskWasm","TaskWasmRunProperties"],"trait":["VirtualTaskManager","VirtualTaskManagerExt"],"type":["TaskExecModule","TaskWasmRun","WasmResumeTask","WasmResumeTrigger"]};

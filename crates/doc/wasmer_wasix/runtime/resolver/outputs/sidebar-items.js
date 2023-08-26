@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DependencyGraph","Edge","ItemLocation","Node","PackageId","Resolution","ResolvedFileSystemMapping","ResolvedPackage"]};

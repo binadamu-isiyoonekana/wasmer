@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["Cache","The options for the `wasmer cache` subcommand"]]});
+window.SIDEBAR_ITEMS = {"enum":["Cmd"],"fn":["clean"],"struct":["Cache"]};

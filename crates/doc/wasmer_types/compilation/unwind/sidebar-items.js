@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArchivedCompiledFunctionUnwindInfo","ArchivedTag","CompiledFunctionUnwindInfo","CompiledFunctionUnwindInfoReference","CompiledFunctionUnwindInfoResolver","Tag"],"struct":["ArchivedVariantWindowsX64","Discriminant","VariantWindowsX64"],"trait":["CompiledFunctionUnwindInfoLike"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["WASMER_WEBC_QUERY_ALL"],"fn":["decode_summary","headers"],"static":["CALLSITE","META"],"struct":["Body","CacheEntry","FileSystemCache","WapmSource","WapmWebQuery","WapmWebQueryData","WapmWebQueryGetPackage","WapmWebQueryGetPackageVersion","WapmWebQueryGetPackageVersionDistribution"]};

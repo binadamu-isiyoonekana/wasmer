@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["Config","The options for the `wasmer config` subcommand"]]});
+window.SIDEBAR_ITEMS = {"enum":["GetOrSet","RetrievableConfigField","StorableConfigField"],"struct":["BoolString","Config","Flags","SetProxyUrl","SetRegistryToken","SetRegistryUrl","SetTelemetryEnabled","SetUpdateNotificationsEnabled"]};

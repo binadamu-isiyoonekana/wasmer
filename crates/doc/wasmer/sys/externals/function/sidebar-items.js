@@ -1,1 +1,1 @@
-initSidebarItems({"fn":[["build_export_function_metadata",""]],"mod":[["inner","This private inner module contains the low-level implementation for `Function` and its siblings."]],"struct":[["DynamicFunction",""],["Function","A WebAssembly `function` instance."]],"trait":[["VMDynamicFunction","This trait is one that all dynamic functions must fulfill."],["VMDynamicFunctionCall",""]]});
+window.SIDEBAR_ITEMS = {"fn":["call_trampoline","func_wrapper"],"macro":["impl_host_function"],"struct":["DynamicFunction","Function","StaticFunction"]};

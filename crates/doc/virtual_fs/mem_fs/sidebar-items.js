@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ROOT_INODE"],"enum":["Node"],"fn":["time"],"mod":["file","file_opener","filesystem","stdio"],"struct":["ArcDirectoryNode","ArcFileNode","CustomFileNode","DirectoryNode","FileNode","FileSystem","ReadOnlyFileNode","Stderr","Stdin","Stdout"],"type":["Inode"]};

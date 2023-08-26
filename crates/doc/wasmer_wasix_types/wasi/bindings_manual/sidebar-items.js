@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["PrestatEnum"],"macro":["field","field_end","zero"]};

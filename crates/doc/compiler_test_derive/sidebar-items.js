@@ -1,1 +1,1 @@
-initSidebarItems({"attr":[["compiler_test",""]],"macro":[["parse_macro_input",""]],"mod":[["ignores",""]]});
+window.SIDEBAR_ITEMS = {"attr":["compiler_test"],"fn":["compiler_test_impl"],"mod":["ignores"],"static":["_DECLS"]};

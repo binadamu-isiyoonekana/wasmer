@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArchivedTag","MemoryStyle","MemoryStyleResolver","Tag"],"struct":["ArchivedVariantDynamic","ArchivedVariantStatic","Discriminant","Memory32","Memory64","VariantDynamic","VariantStatic"],"trait":["MemorySize"]};

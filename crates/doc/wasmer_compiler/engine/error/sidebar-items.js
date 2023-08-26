@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeserializeError","ImportError","InstantiationError","LinkError","SerializeError"]};

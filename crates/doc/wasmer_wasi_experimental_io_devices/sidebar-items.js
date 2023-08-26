@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["FRAMEBUFFER_STATE",""],["MAX_X",""],["MAX_Y",""]],"enum":[["FrameBufferFileType",""]],"fn":[["initialize",""]],"mod":[["util",""]],"struct":[["FrameBuffer",""],["FrameBufferState",""]]});

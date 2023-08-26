@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["THREAD_LOCAL_INSTANCE_HANDLES"],"fn":["__getit","__init"],"static":["LOCAL_INSTANCE_SEED","__KEY"],"struct":["WasiInstanceGuard","WasiInstanceGuardMemory","WasiInstanceGuardMut","WasiInstanceHandlesPointer"]};

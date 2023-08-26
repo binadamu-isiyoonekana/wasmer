@@ -1,3 +1,5 @@
-(function() {var implementors = {};
-implementors["wasmer_vfs"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.59.0/core/convert/trait.TryInto.html\" title=\"trait core::convert::TryInto\">TryInto</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/1.59.0/std/primitive.i32.html\">i32</a>&gt; for <a class=\"struct\" href=\"wasmer_vfs/struct.FileDescriptor.html\" title=\"struct wasmer_vfs::FileDescriptor\">FileDescriptor</a>","synthetic":false,"types":["wasmer_vfs::FileDescriptor"]},{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.59.0/core/convert/trait.TryInto.html\" title=\"trait core::convert::TryInto\">TryInto</a>&lt;<a class=\"struct\" href=\"wasmer_vfs/struct.Metadata.html\" title=\"struct wasmer_vfs::Metadata\">Metadata</a>&gt; for <a class=\"struct\" href=\"https://doc.rust-lang.org/1.59.0/std/fs/struct.Metadata.html\" title=\"struct std::fs::Metadata\">Metadata</a>","synthetic":false,"types":["std::fs::Metadata"]}];
-if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
+(function() {var implementors = {
+"virtual_fs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.69.0/core/convert/trait.TryInto.html\" title=\"trait core::convert::TryInto\">TryInto</a>&lt;<a class=\"struct\" href=\"virtual_fs/struct.Metadata.html\" title=\"struct virtual_fs::Metadata\">Metadata</a>&gt; for <a class=\"struct\" href=\"https://doc.rust-lang.org/1.69.0/std/fs/struct.Metadata.html\" title=\"struct std::fs::Metadata\">Metadata</a>"]],
+"wasmer_types":[],
+"wasmer_wasix":[]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BRANCHES","WASMER_CLI"],"enum":["AuthorizationState","BoolPromptOptions","TokenStatus"],"fn":["handle_post_save_token","handle_unknown_method","preflight","service_router"],"struct":["AppContext","Login","ValidatedNonceOutput"],"type":["Token"]};

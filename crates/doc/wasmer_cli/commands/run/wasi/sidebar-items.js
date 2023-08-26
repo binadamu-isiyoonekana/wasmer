@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["Wasi","WASI Options"]]});
+window.SIDEBAR_ITEMS = {"constant":["WAPM_SOURCE_CACHE_TIMEOUT"],"fn":["parse_registry"],"struct":["RunProperties","Wasi"]};

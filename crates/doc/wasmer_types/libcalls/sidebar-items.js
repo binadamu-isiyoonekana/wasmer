@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArchivedTag","LibCall","LibCallResolver","Tag"],"struct":["Discriminant","LibCallEnumIterator"]};
